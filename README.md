@@ -1,5 +1,14 @@
 # README
 
+## rails s -p 3001
+
+## cd react_front
+
+## npm start
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
